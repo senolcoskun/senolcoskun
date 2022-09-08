@@ -1,9 +1,4 @@
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90"/>
-</p>
-
-# Hi there, I'm Senol 👋
+### Hi there, I'm Senol 👋
 
 ### Languages and Tools
 
